@@ -1,3 +1,4 @@
+//defining a constant using preprocessor command
 #include <stdio.h>
 #define pi 3.142
 int main()
